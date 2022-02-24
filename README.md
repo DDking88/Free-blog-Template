@@ -2,7 +2,7 @@
 # A Free blog Template with control panel and a server and a database
 
 
-## Go to Under Development Build
+## Currently Under Development
 ## 🔗 Versions
 ## v1
 
