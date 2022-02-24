@@ -1,1 +1,0 @@
-## free blog template
